@@ -18,3 +18,13 @@ A Spring Boot Crud Application with history different tech stacks and entities
 - Dao with hibernate implementation
 - a service layer
 - a rest controller
+
+#### Second commit version
+- Dao with standard JPA implementation
+- a service layer
+- a rest controller
+
+#### Third commit version
+- JPA repository (Do not need dao interfaces and impl's anymore)
+- a service layer (refactored to JPA repo)
+- a rest controller
